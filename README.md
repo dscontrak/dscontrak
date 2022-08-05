@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dscontrak
 - 👀 I’m interested in java and php and any other programming language to create app in linux.
-- 🌱 I’m currently learning flutter and golang.
+- 🌱 I’m currently learning flutter and Deno (Typescript).
 - 💞️ I’m looking to collaborate on open soruce projects
 - 📫 How to reach me, well you can do that by email dscontrak@gmail.com
 
